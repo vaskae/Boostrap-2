@@ -17,10 +17,11 @@
     background: #69A6DF;
     margin-top: 15px;
     min-height: 150px;
+	
 }
-.padding_right_disable{padding-right: 0;}
 
-.padding_left{padding-left:14px;}
+
+.padding_right_disable {padding-right:14px;}
 
 .band, .global_nav, .tools{
     min-height: 70px;
@@ -104,10 +105,17 @@
     min-height: 218px;
    
 }
-.artical_fiture, .artical_list{
+.artical_fiture{
    min-height: 145px;
 margin: 20px 0 20px 0;
 }
+
+ .artical_list{
+   min-height: 300px;
+margin: 20px 0 20px 0;
+}
+
+
 .slider{
     padding: 10px 10px 0 10px;
 }
